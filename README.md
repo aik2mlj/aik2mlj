@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 Headphone on, screen resumed<br/>
 Words unspoken, dreams relumed.
 </p>
-<br/>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aik2mlj&hide=prs&show_icons=true&theme=onedark" /></p>
-<br/>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aik2mlj&layout=compact&langs_count=8&exclude_repo=Audiobia&hide=roff&theme=onedark" /></p>
