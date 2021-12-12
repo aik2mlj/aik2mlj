@@ -1,4 +1,4 @@
-### Hi there 👋
+### A I K 2
 
 <!--
 **aik2mlj/aik2mlj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![AIK2's GitHub stats](https://github-readme-stats.vercel.app/api?username=aik2mlj&hide=prs&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
