@@ -1,4 +1,4 @@
-## A I K 2
+<a href="https://aik2.me" target="_blank" title="link"><h2>A I K 2</h2></a>
 
 <!--
 **aik2mlj/aik2mlj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br/>
+<p align="center">
+Headphone on, screen resumed<br/>
+Words unspoken, dreams relumed.
+</p>
+<br/>
 
-Headphone on, screen alight, words unspoken, dreams askew.
-
-[![AIK2's GitHub stats](https://github-readme-stats.vercel.app/api?username=aik2mlj&hide=prs&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aik2mlj&hide=prs&show_icons=true&theme=onedark" /></p>
+<br/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aik2mlj&layout=compact&langs_count=8&exclude_repo=Audiobia&hide=roff&theme=onedark" /></p>
