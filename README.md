@@ -1,4 +1,4 @@
-<a href="https://aik2.me" target="_blank" title="link"><h2>A I K 2</h2></a>
+<a href="https://aik2.site" target="_blank" title="link"><h2>A I K 2</h2></a>
 
 <!--
 **aik2mlj/aik2mlj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
